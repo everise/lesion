@@ -34,16 +34,12 @@ python test.py
 
 ## Dependencies
 
-| Project | Version |
-|---------|-------------|
-| [python]       | 3.6 |
-| [ReNA]         | 1.0 |
-| [scikit-learn] | 0.15 |
-| [nilearn]      | 0.2.4 |
-| [nibabel]      | 1.1.0 |
-| [numpy]        | 1.7.1 |
-| [scipy]        | 0.15 |
-| [matplotlib]   | 3.0.0 |
+| Project | Version | Project | Version |
+|---------|-------------|---------|-------------|
+| [python]       | 3.6 | [nibabel]      | 1.1.0 |
+| [ReNA]         | 1.0 | [numpy]        | 1.7.1 |
+| [scikit-learn] | 0.15 | [scipy]        | 0.15 |
+| [nilearn]      | 0.2.4 | [matplotlib]   | 3.0.0 |
 
 [python]: https://www.python.org/
 [ReNA]: https://github.com/ahoyosid/ReNA
