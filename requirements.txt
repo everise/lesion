@@ -1,6 +1,6 @@
-scikit-learn==0.15
-nilearn==0.2.4
-nibabel==1.1.0
-numpy==1.7.1
-scipy==0.15
+scikit-learn==0.20.0
+nilearn==0.4.2
+nibabel==2.3.0
+numpy==1.15.2
+scipy==1.1.0
 matplotlib==3.0.0

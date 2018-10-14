@@ -36,10 +36,10 @@ python test.py
 
 | Project | Version | Project | Version |
 |---------|-------------|---------|-------------|
-| [python]       | 3.6 | [nibabel]      | 1.1.0 |
-| [ReNA]         | 1.0 | [numpy]        | 1.7.1 |
-| [scikit-learn] | 0.15 | [scipy]        | 0.15 |
-| [nilearn]      | 0.2.4 | [matplotlib]   | 3.0.0 |
+| [python]       | 3.6 | [nibabel]      | 2.3.0 |
+| [ReNA]         | 1.0 | [numpy]        | 1.15.2 |
+| [scikit-learn] | 0.20.0 | [scipy]        | 1.1.0 |
+| [nilearn]      | 0.4.2 | [matplotlib]   | 3.0.0 |
 
 [python]: https://www.python.org/
 [ReNA]: https://github.com/ahoyosid/ReNA
