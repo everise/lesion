@@ -1,5 +1,4 @@
-# lesion  ![Build Status](https://travis-ci.org/everise/lesion.svg?branch=master)
----
+# lesion  [![Build Status](https://travis-ci.com/everise/lesion.svg?branch=master)](https://travis-ci.com/everise/lesion)
 
 ## Introduction
 
